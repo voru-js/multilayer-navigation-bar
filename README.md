@@ -21,3 +21,5 @@ Built with TypeScript and Tailwind CSS for scalability, responsiveness, and rapi
 useState manages which section is expanded, and which settings panel is currently selected.
 
 On click, the selected section is updated and the relevant component (<General />, <Security />, etc.) is displayed.
+
+
