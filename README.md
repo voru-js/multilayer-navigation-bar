@@ -1,6 +1,8 @@
 # Multi-level Sidebar 
 
 Sidebar navigation using React Typescript
+
+![DEMO](./navigation.gif)
 ---------
 ## Features
 
